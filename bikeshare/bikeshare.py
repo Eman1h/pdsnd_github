@@ -23,6 +23,8 @@ import numpy as np
 from google.colab import drive
 drive.mount('/content/drive')
 
+print("First Project")
+print("Welcome")
 CITY_DATA = { 'chicago': '/content/drive/MyDrive/Courses/Programming for DS/all-project-files/chicago.csv',
               'new york city': '/content/drive/MyDrive/Courses/Programming for DS/all-project-files/new_york_city.csv',
               'washington': '/content/drive/MyDrive/Courses/Programming for DS/all-project-files/washington.csv' }
